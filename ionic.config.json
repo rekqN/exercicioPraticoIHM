@@ -1,0 +1,7 @@
+{
+  "name": "exercicioIHM",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
